@@ -1,4 +1,4 @@
-[![MasterHead](https://www.reddit.com/r/ResetCollection/comments/132m4ve/i_made_a_proper_android_banner/#lightbox)](https://github.com/KhalidPS)
+[![MasterHead](https://i.redd.it/efvudwjgyrwa1.gif)](https://github.com/KhalidPS)
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">A passionate Android developer from Palestine</h3>
 
